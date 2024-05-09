@@ -1,0 +1,22 @@
+{
+  "name": "kkkk",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node npmscript.js",
+    "chuan": "node 1.js && node 2.js",
+    "bing": "node 1.js & node 2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18",
+    "react-dom": "18",
+    "@farmfe/cli": "^1.0.0",
+    "@farmfe/core": "1.1.2",
+    "@farmfe/plugin-react": "^1.0.0",
+    "react-refresh": "^0.14.0"
+  }
+}
